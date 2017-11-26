@@ -1,2 +1,3 @@
 #!/bin/sh
 echo "The username is ${logname}"
+echo "The current date is ${date}"
